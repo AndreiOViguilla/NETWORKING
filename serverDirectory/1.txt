@@ -1,0 +1,7 @@
+javac FileServer.java
+javac FileClient.java
+java FileServer
+java FileClient
+/join 127.0.0.1 12345
+/register Bob
+/register Alice
